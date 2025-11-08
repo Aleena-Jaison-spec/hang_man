@@ -1,4 +1,4 @@
-🎮 Hangman Word Game
+🎮 Hang_man Word Game
 
 Welcome to the Hangman Word Game — a fun and challenging twist on the classic word-guessing puzzle! 🧠✨
 
@@ -45,3 +45,4 @@ Built using HTML, CSS, and JavaScript 💻
 💡 Why We Built It
 
 We wanted to create a fun, simple, and nostalgic word game that challenges your brain while keeping things lighthearted. It’s perfect for anyone who loves word puzzles or just wants a quick mental workout! 🧠⚡
+
